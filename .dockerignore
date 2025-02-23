@@ -1,0 +1,7 @@
+.git
+app/.git
+web/.git
+app/.vscode
+web/.vscode
+app/.idea
+web/.idea

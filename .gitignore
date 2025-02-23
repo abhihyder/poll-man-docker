@@ -1,0 +1,7 @@
+.data
+.vscode
+.idea
+.env
+/app
+/web
+docker-compose.yml
